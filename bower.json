@@ -7,6 +7,6 @@
     "main": ["./ui-bootstrap-affix.js"],
     "dependencies": {
         "angular": ">=1",
-	"angular-bootstrap": ">=1"
+	"angular-bootstrap": ">=0.1"
     }    
 }
