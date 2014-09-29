@@ -1,0 +1,12 @@
+{
+    "author": {
+        "name": "Mohamad Mohebifar"
+    },
+    "name": "angular-bootstrap-affix",
+    "version": "0.1.0",
+    "main": ["./ui-bootstrap-affix.js"],
+    "dependencies": {
+        "angular": ">=1",
+	"angular-bootstrap": ">=1"
+    }    
+}
